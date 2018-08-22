@@ -1,6 +1,7 @@
 # HyperGard
 
 [![Build Status](https://travis-ci.org/Comcast/hypergard.svg?branch=master)](https://travis-ci.org/Comcast/hypergard)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkristakhare%2Fhypergard.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkristakhare%2Fhypergard?ref=badge_shield)
 
 ### Options
 
@@ -75,3 +76,7 @@ $ gulp test
 That `gulp test` command will load up Chrome. Click the "Debug" button and then open the JavaScript Console to see the test results. You can also use `console` methods to be able to debug your tests.
 
 Note that if you make a code change, you cannot simply reload http://localhost:8080/debug.html in Chrome. You have to stop the `gulp test` process with `Control+C` and then rerun the command (there's probably a better way to handle that, but it does the job for now).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkristakhare%2Fhypergard.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkristakhare%2Fhypergard?ref=badge_large)
